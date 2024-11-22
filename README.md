@@ -16,8 +16,7 @@
 * ☁️ It is based on the
 [Cumulus](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/cumulus/index.html) framework.
 
-* 🔧 Its runtime is configured with a single custom pallet as a starting point, and a handful of ready-made pallets
-such as a [Balances pallet](https://paritytech.github.io/polkadot-sdk/master/pallet_balances/index.html).
+* 🔧 Its runtime is configured with a single custom pallet as a starting point, and [ISMP](https://docs.hyperbridge.network/developers/polkadot/pallet-ismp) pallet ready to access [HYPERBRIDGE](https://docs.hyperbridge.network/developers) verifiable interopability
 
 * 👉 Learn more about parachains [here](https://wiki.polkadot.network/docs/learn-parachains)
 
